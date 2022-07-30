@@ -1,7 +1,7 @@
 name: ApplySystem
 main: ApplySystem\ApplySystem
 api: ["4.5.1"]
-version: 1.0.0
+version: 1.0.1
 author: "vP3aZy"
 website: "https://github.com/vP3aZy"
 
