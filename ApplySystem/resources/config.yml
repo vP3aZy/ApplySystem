@@ -1,0 +1,23 @@
+#Config by vP3aZy
+
+#Here you can setup the command!
+Command: "apply"
+Description: "Opens the apply form!"
+Usage: "/apply"
+
+############################################################################################
+
+#Here you can setup the Form
+Title: "§bBewerben§7:"
+Label: "§7Hier kannst du dich bewerben, fülle bitte alles aus!"
+Slider: "§eAge§7: §f"
+Input1: "§3Name?"
+Input2: "§3As what do you want to Apply?"
+Input3: "§3Strengthen?"
+Input4: "§3Weaknesses?"
+Input5: "§3Why YourServer.net?"
+
+############################################################################################
+
+#Do you want to use Discord Webhook? [true, false]
+DiscordWebhook: true

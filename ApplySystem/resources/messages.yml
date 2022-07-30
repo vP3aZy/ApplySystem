@@ -1,0 +1,45 @@
+#Messages by vP3aZy
+
+#Here you can set the error messages!
+NoSlider: "§cNo age given!"
+NoInput1: "§cNo name given!"
+NoInput2: "§cNo Input given!"
+NoInput3: "§cNo Input given!"
+NoInput4: "§cNo Input given!"
+NoInput5: "§cno Input given!"
+
+############################################################################################
+
+#Here you can set the success message!
+Successfull: "§aYour Applycation was successfully sended!"
+
+############################################################################################
+
+#If you choose DiscordWebhook false setup this!
+#You can use [ {Slider}, {Input1}, {Input2}, {Input3}, {Input4}, {Input5}, {Player} ]
+newApply: "§aA new Applycation from §e{Player}§a!"
+ApplySlider: "§fHis age§7: §e{Slider}"
+ApplyInput1: "§fHis name§7: §e{Input1}"
+ApplyInput2: "§fApply as§7: §e{Input2}"
+ApplyInput3: "§fHis Strengthen§7: §e{Input3}"
+ApplyInput4: "§fHis Weaknesses§7: §e{Input4}"
+ApplyInput5: "§fWhy YourServer.net?§7: §e{Input5}"
+
+############################################################################################
+
+#Here you can setup the DiscordEmbed, if you choose false, leave it empty!
+Link: ""
+Username: ""
+AvatarURL: ""
+
+#If you choose DiscordWebhook true setup this!
+#You can use [ {Slider}, {Input1}, {Input2}, {Input3}, {Input4}, {Input5}, {Player} ]
+EmbedTitle: "New Apply!"
+DApply: "A new Applycation from {Player}!"
+DApplySlider: "His age: {Slider}"
+DApplyInput1: "His name: {Input1}"
+DApplyInput2: "Apply as: {Input2}"
+DApplyInput3: "His Strengthen: {Input3}"
+DApplyInput4: "His Weaknesses: {Input4}"
+DApplyInput5: "Why YourServer.net?: {Input5}"
+EmbedFooter: "Yes or No?"
